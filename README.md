@@ -1,6 +1,6 @@
 # Churn Analysis for PowerCo
 
-This repository contains the Python code for the Churn Analysis project conducted for PowerCo in the BCG X job simulation programme. The project encompasses Exploratory Data Analysis, Feature Engineering, and Predictive Modeling techniques to understand and address customer churn.
+This repository contains the Python code and recommendations for the Churn Analysis project conducted for PowerCo in the BCG X job simulation programme. The project encompasses Exploratory Data Analysis, Feature Engineering, and Predictive Modeling techniques to understand and address customer churn.
 
 **Key Features:**
 
